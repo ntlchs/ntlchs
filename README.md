@@ -27,7 +27,7 @@ There you can find some of the projects I have worked on. Feel free to explore a
 
 Check out my complete portfolio at [ntlchs.github.io](https://ntlchs.github.io).
 
-Feel free to reach out to me if you have any questions or if you'd like to collaborate on any exciting projects. Let's create amazing things together! 
+Please reach out to me if you have any questions or if you'd like to collaborate on any exciting projects. Let's create amazing things together! 
 
 
   <img src="https://media.tenor.com/3HrcAdrKXigAAAAM/cute-kawaii.gif" alt="Kitten" width="250px" />
