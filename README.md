@@ -12,16 +12,18 @@ I'm Natalia, a frontend developer passionate about creating interactive and enga
 
 There you can find some of the projects I have worked on. Feel free to explore and get in touch if you have any questions or collaboration opportunities.
 
-- Project 1: [Project Name](https://ntlchs.github.io/project1)
-  Description: Brief description of the project.
+- Project 1: [Silvias Design](https://silviasdesign.com/)
+  
+  Description: Landing Page, made using js, HTML and CSS.
 
-- Project 2: [Project Name](https://ntlchs.github.io/project2)
-  Description: Brief description of the project.
+- Project 2: [Tic Tac Toe](https://ntlchs.github.io/project2)
+  
+  Description: Made using React.
 
-- Project 3: [Project Name](https://ntlchs.github.io/project3)
-  Description: Brief description of the project.
+- Project 3: [Game of Life](https://ntlchs.github.io/gameoflife/)
+  
+  Description: Made using p5js.
 
-...
 
 Check out my complete portfolio at [ntlchs.github.io](https://ntlchs.github.io).
 
