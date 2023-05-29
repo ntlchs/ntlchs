@@ -1,34 +1,41 @@
-### Hi there!
-
-  <img src="https://i.giphy.com/media/C6dOohpMt6PjcBVOgw/giphy.webp" alt="Hello GIF" width="250" />
+<img src="https://i.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.webp" min-width="350px" max-width="350px" width="305px" align="right" alt="Cat">
 
 
-I'm Natalia, a frontend developer passionate about creating interactive and engaging web experiences. Welcome to my GitHub profile! Here are some links to connect with me and explore my work:
+<h2 align="left">  <b>Hey There! :cowboy_hat_face:</b></h2>
+<p align="left">   
+I'm Natalia, a frontend developer and Computer Science grad. I love to create useful, beautiful projects. 
+</p>
+
+<p align="left">
+Welcome to my GitHub profile! Here are some links to connect with me and explore my work:
+  </p>
+
+<p align="left">
+  :brain: Languages: <strong>HTML, CSS, JavaScript, TypeScript, Python, Java</strong>
+</p>
+
+
+<p align="left">
+  💼 Tools: <strong>React, Postgresql, Vercel, Prisma</strong>
+</p> 
+
+<h3 align="left"><b>Portfolio</b></h3>
+<p align="left"> 
+  
+  There you can find some of the projects I have worked on. Feel free to explore and get in touch if you have any questions or collaboration opportunities.
+
+Check it out at [ntlchs.github.io](https://ntlchs.github.io).
+
+
+<p align="left">
+  💌 Please reach out to me if you have any questions or if you'd like to collaborate on any exciting projects. Let's create amazing things together! ⤵️
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliachies/)
 [![p5.js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)](https://openprocessing.org/user/210757)
 
-## Portfolio
+</p>  
 
-There you can find some of the projects I have worked on. Feel free to explore and get in touch if you have any questions or collaboration opportunities.
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=ntlchs&show_icons=true&title_color=020202&text_color=020202&icon_color=FF7CA8&bg_color=F0F0F0&cache_seconds=2300">
 
-- Project 1: [Silvias Design](https://silviasdesign.com/)
-  
-  Description: Landing Page, made using js, HTML and CSS.
-
-- Project 2: [Tic Tac Toe](https://ntlchs.github.io/project2)
-  
-  Description: Made using React.
-
-- Project 3: [Game of Life](https://ntlchs.github.io/gameoflife/)
-  
-  Description: Made using p5js.
-
-
-Check out my complete portfolio at [ntlchs.github.io](https://ntlchs.github.io).
-
-Please reach out to me if you have any questions or if you'd like to collaborate on any exciting projects. Let's create amazing things together! 
-
-
-  <img src="https://media.tenor.com/3HrcAdrKXigAAAAM/cute-kawaii.gif" alt="Kitten" width="250px" />
 
