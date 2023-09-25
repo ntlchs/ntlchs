@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here are some links to connect with me and explore
 
 
 <p align="left">
-  💼 Tools: <strong>React, Postgresql, Vercel, Prisma</strong>
+  💼 Tools: <strong>React, Postgresql, Vercel, Prisma, NextJS, Astro </strong>
 </p> 
 
 <h3 align="left"><b>Portfolio</b></h3>
