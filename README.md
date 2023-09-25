@@ -1,7 +1,7 @@
 <img src="https://i.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.webp" min-width="350px" max-width="350px" width="305px" align="right" alt="Cat">
 
 
-<h2 align="left">  <b>Hey There! :cowboy_hat_face:</b></h2>
+<h2 align="left">  <b>Howdy! :cowboy_hat_face:</b></h2>
 <p align="left">   
 I'm Natalia, a Full-Stack developer and Computer Science grad. I love to create useful, beautiful projects. 
 </p>
