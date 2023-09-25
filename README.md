@@ -36,7 +36,7 @@ Check it out at [ntlchs.github.io](https://ntlchs.github.io).
 
 </p>  
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=ntlchs&show_icons=true&title_color=6A7D8A&text_color=333333&icon_color=FFA8C1&bg_color=F5E7F0&cache_seconds=2300">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=ntlchs&show_icons=true&title_color=4A90E2&text_color=333333&icon_color=FFA8C1&bg_color=FFF0F5&cache_seconds=2300">
 
 
 
