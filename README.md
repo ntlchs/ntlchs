@@ -3,7 +3,7 @@
 
 <h2 align="left">  <b>Hey There! :cowboy_hat_face:</b></h2>
 <p align="left">   
-I'm Natalia, a frontend developer and Computer Science grad. I love to create useful, beautiful projects. 
+I'm Natalia, a Full-Stack developer and Computer Science grad. I love to create useful, beautiful projects. 
 </p>
 
 <p align="left">
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! Here are some links to connect with me and explore
   </p>
 
 <p align="left">
-  :brain: Languages: <strong>HTML, CSS, JavaScript, TypeScript, Python, Java</strong>
+  :brain: Languages: <strong>HTML, CSS, JavaScript, TypeScript, Python, Java, SQL</strong>
 </p>
 
 
