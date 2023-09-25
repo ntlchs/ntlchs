@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/9oa3sE4IdWbqO61WGT/giphy.webp" min-width="350px" max-width="350px" width="305px" align="right" alt="Cat">
+<img src="https://media.tenor.com/F3kRT9OBofEAAAAC/pusheen-hello.gif" min-width="350px" max-width="350px" width="305px" align="right" alt="Cat">
 
 
 <h2 align="left">  <b>Howdy! :cowboy_hat_face:</b></h2>
